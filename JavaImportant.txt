@@ -1,0 +1,26 @@
+1.Wajp to remove the duplication of an array?.
+2.Wajp to reverse the array without using inbuild function.
+3.wajp to find the second largest number.
+4.wajp to find the second and first smallest number
+5.wajp to count the number of 0 in an array.
+6.wajp to reverse the string without using API.
+7.wajp to find the middle element in an arrayList.
+8.WAJP to find the first non repatitave word in the string
+9.wajp to print aaabcdddd into 3abc4d?.
+10.Design pattern program.
+11.atm structure
+12.loop(while)
+13.insertion data in linkedList after fetching the data from the table.
+14.File (copy and cat).
+15.Serialization
+16.object class.
+17.checked exception and unchecked exception
+18.web.xml
+19.Http error code
+
+				RCP
+
+
+1.multithreading & starvation& deadlock&Demaon thread & Synchronization & isAlive & Join function 
+
+shikha.kumari@adroitent.com
